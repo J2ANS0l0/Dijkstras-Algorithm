@@ -1,3 +1,4 @@
+
 nodes = [
     {"1a Calle Poniente & Alameda Santa Lucia", (14.560572, -90.739266)},
     {"1a Calle Poniente & 7a Avenida Norte", (14.557764, -90.7296)},
@@ -58,27 +59,14 @@ nodes = [
 ]
 
 check_points = [
-    ["Arco de Santa Catalina", (14.55973874508855, -90.73422076688449), 3, 11]
-    ["Ruinas de santa clara": (14.554861968606817, -90.73105039584416), 54, 46]
-    ["Real Palacio de los Capitanes Generales": (14.55626906661756, -90.73375942692432), 35, 36]
-    ["𝗠𝘂𝘀𝗲𝗼 𝗱𝗲 𝗦𝗮𝗻 𝗔𝗴𝘂𝘀𝘁í𝗻": (14.55638848781278, -90.73640944943139), 33, 35]
-    ["Convento Santa Teresa de Jesús": (14.560640514277763, -90.7328168111516), 4, 5]
-    ["Iglesia de Nuestra Señora de El Carmen" : (14.559021159325468, -90.73242656800224)  13,21,]
-    ["Paseo de los Museos": (14.559498244001478, -90.72953646953226) 7, 15,]
-    ["Museo Nacional de Arte de Guatemala": (14.5559597646901, -90.73416059786072) 43,35,]
-    ["Marco Arte Galeria": (14.55563265368269, -90.73533540546954) , 42, 34]
-    ["ChocoMuseo": (14.55739052385006, -90.7340214253345), 26, 27]
-]
-
-check_points = [
-    ["Arco de Santa Catalina", (14.56, -90.73), 3, 11]
-    ["Ruinas de santa clara": (14.55, -90.73), 54, 46]
-    ["Real Palacio de los Capitanes Generales": (14.56, -90.73), 35, 36]
-    ["𝗠𝘂𝘀𝗲𝗼 𝗱𝗲 𝗦𝗮𝗻 𝗔𝗴𝘂𝘀𝘁í𝗻": (14.56, -90.74), 33, 35]
-    ["Convento Santa Teresa de Jesús": (14.56, -90.73), 4, 5]
-    ["Iglesia de Nuestra Señora de El Carmen" (14.56, -90.73), 13,21]
-    ["Paseo de los Museos": (14.56, -90.73), 7, 15]
-    ["Museo Nacional de Arte de Guatemala": (14.56, -90.73), 43,35]
-    ["Marco Arte Galeria": (14.56, -90.74), 42, 34]
-    ["ChocoMuseo": (14.56, -90.73), 26, 27]
+    ["Arco de Santa Catalina", (14.55973874508855, -90.73422076688449)],
+    ["Ruinas de santa clara", (14.554861968606817, -90.73105039584416)],
+    ["Real Palacio de los Capitanes Generales", (14.55626906661756, -90.73375942692432)],
+    ["𝗠𝘂𝘀𝗲𝗼 𝗱𝗲 𝗦𝗮𝗻 𝗔𝗴𝘂𝘀𝘁í𝗻", (14.55638848781278, -90.73640944943139)],
+    ["Convento Santa Teresa de Jesús", (14.560640514277763, -90.7328168111516)],
+    ["Iglesia de Nuestra Señora de El Carmen", (14.559021159325468, -90.73242656800224)],
+    ["Paseo de los Museos", (14.559498244001478, -90.72953646953226)],
+    ["Museo Nacional de Arte de Guatemala", (14.5559597646901, -90.73416059786072)],
+    ["Marco Arte Galeria", (14.55563265368269, -90.73533540546954)],
+    ["ChocoMuseo", (14.55739052385006, -90.7340214253345)]
 ]
