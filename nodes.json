@@ -1,0 +1,618 @@
+{
+    "0": {
+        "n_node": "0",
+        "name": [
+            "1a Calle Poniente",
+            "Alameda Santa Lucia"
+        ],
+        "coordinates": [
+            14.560572,
+            -90.739266
+        ]
+    },
+    "1": {
+        "n_node": "1",
+        "name": [
+            "1a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557764,
+            -90.7296
+        ]
+    },
+    "2": {
+        "n_node": "2",
+        "name": [
+            "1a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.560834,
+            -90.735741
+        ]
+    },
+    "3": {
+        "n_node": "3",
+        "name": [
+            "1a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "4": {
+        "n_node": "4",
+        "name": [
+            "1a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.560767,
+            -90.735287
+        ]
+    },
+    "5": {
+        "n_node": "5",
+        "name": [
+            "1a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.560767,
+            -90.735287
+        ]
+    },
+    "6": {
+        "n_node": "6",
+        "name": [
+            "1a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.560767,
+            -90.735287
+        ]
+    },
+    "7": {
+        "n_node": "7",
+        "name": [
+            "1a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.560767,
+            -90.735287
+        ]
+    },
+    "8": {
+        "n_node": "8",
+        "name": [
+            "2a Calle Poniente",
+            "Alameda Santa Lucia"
+        ],
+        "coordinates": [
+            14.559493,
+            -90.734564
+        ]
+    },
+    "9": {
+        "n_node": "9",
+        "name": [
+            "2a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554411,
+            -90.733398
+        ]
+    },
+    "10": {
+        "n_node": "10",
+        "name": [
+            "2a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554411,
+            -90.733398
+        ]
+    },
+    "11": {
+        "n_node": "11",
+        "name": [
+            "2a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "12": {
+        "n_node": "12",
+        "name": [
+            "2a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.55938,
+            -90.73331
+        ]
+    },
+    "13": {
+        "n_node": "13",
+        "name": [
+            "2a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554411,
+            -90.733398
+        ]
+    },
+    "14": {
+        "n_node": "14",
+        "name": [
+            "2a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554411,
+            -90.733398
+        ]
+    },
+    "15": {
+        "n_node": "15",
+        "name": [
+            "2a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554411,
+            -90.733398
+        ]
+    },
+    "16": {
+        "n_node": "16",
+        "name": [
+            "3a Calle Poniente",
+            "Alameda Santa Lucia"
+        ],
+        "coordinates": [
+            14.558357,
+            -90.737658
+        ]
+    },
+    "17": {
+        "n_node": "17",
+        "name": [
+            "3a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558656,
+            -90.73621
+        ]
+    },
+    "18": {
+        "n_node": "18",
+        "name": [
+            "3a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.556981,
+            -90.735208
+        ]
+    },
+    "19": {
+        "n_node": "19",
+        "name": [
+            "3a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558205,
+            -90.73485
+        ]
+    },
+    "20": {
+        "n_node": "20",
+        "name": [
+            "3a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.528618,
+            -90.74022
+        ]
+    },
+    "21": {
+        "n_node": "21",
+        "name": [
+            "3a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558656,
+            -90.73621
+        ]
+    },
+    "22": {
+        "n_node": "22",
+        "name": [
+            "3a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.528618,
+            -90.74022
+        ]
+    },
+    "23": {
+        "n_node": "23",
+        "name": [
+            "3a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.528618,
+            -90.74022
+        ]
+    },
+    "24": {
+        "n_node": "24",
+        "name": [
+            "4a Calle Poniente",
+            "Alameda Santa Lucia"
+        ],
+        "coordinates": [
+            14.557197,
+            -90.735398
+        ]
+    },
+    "25": {
+        "n_node": "25",
+        "name": [
+            "4a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554345,
+            -90.734424
+        ]
+    },
+    "26": {
+        "n_node": "26",
+        "name": [
+            "4a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558475,
+            -90.733362
+        ]
+    },
+    "27": {
+        "n_node": "27",
+        "name": [
+            "4a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "28": {
+        "n_node": "28",
+        "name": [
+            "4a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554345,
+            -90.734424
+        ]
+    },
+    "29": {
+        "n_node": "29",
+        "name": [
+            "4a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554345,
+            -90.734424
+        ]
+    },
+    "30": {
+        "n_node": "30",
+        "name": [
+            "4a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.55938,
+            -90.73331
+        ]
+    },
+    "31": {
+        "n_node": "31",
+        "name": [
+            "4a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554345,
+            -90.734424
+        ]
+    },
+    "32": {
+        "n_node": "32",
+        "name": [
+            "5a Calle Poniente",
+            "Calzada Santa Lucia Sur"
+        ],
+        "coordinates": [
+            14.334401,
+            -91.033453
+        ]
+    },
+    "33": {
+        "n_node": "33",
+        "name": [
+            "5a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "34": {
+        "n_node": "34",
+        "name": [
+            "5a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "35": {
+        "n_node": "35",
+        "name": [
+            "5a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558205,
+            -90.73485
+        ]
+    },
+    "36": {
+        "n_node": "36",
+        "name": [
+            "5a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "37": {
+        "n_node": "37",
+        "name": [
+            "5a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558205,
+            -90.73485
+        ]
+    },
+    "38": {
+        "n_node": "38",
+        "name": [
+            "5a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "39": {
+        "n_node": "39",
+        "name": [
+            "5a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "40": {
+        "n_node": "40",
+        "name": [
+            "6a Calle Poniente",
+            "Calzada Santa Lucia Sur"
+        ],
+        "coordinates": [
+            14.555336,
+            -90.735353
+        ]
+    },
+    "41": {
+        "n_node": "41",
+        "name": [
+            "6a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554343,
+            -90.734537
+        ]
+    },
+    "42": {
+        "n_node": "42",
+        "name": [
+            "6a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.556482,
+            -90.735353
+        ]
+    },
+    "43": {
+        "n_node": "43",
+        "name": [
+            "6a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "44": {
+        "n_node": "44",
+        "name": [
+            "6a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558475,
+            -90.733362
+        ]
+    },
+    "45": {
+        "n_node": "45",
+        "name": [
+            "6a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.556981,
+            -90.735208
+        ]
+    },
+    "46": {
+        "n_node": "46",
+        "name": [
+            "6a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554343,
+            -90.734537
+        ]
+    },
+    "47": {
+        "n_node": "47",
+        "name": [
+            "6a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.560834,
+            -90.735741
+        ]
+    },
+    "48": {
+        "n_node": "48",
+        "name": [
+            "7a Calle Poniente",
+            "Calzada Santa Lucia Sur"
+        ],
+        "coordinates": [
+            14.553846,
+            -90.729562
+        ]
+    },
+    "49": {
+        "n_node": "49",
+        "name": [
+            "7a Calle Poniente",
+            "7a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558485,
+            -90.736233
+        ]
+    },
+    "50": {
+        "n_node": "50",
+        "name": [
+            "7a Calle Poniente",
+            "6a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554343,
+            -90.734537
+        ]
+    },
+    "51": {
+        "n_node": "51",
+        "name": [
+            "7a Calle Poniente",
+            "5a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557657,
+            -90.734191
+        ]
+    },
+    "52": {
+        "n_node": "52",
+        "name": [
+            "7a Calle Poniente",
+            "4a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554345,
+            -90.734424
+        ]
+    },
+    "53": {
+        "n_node": "53",
+        "name": [
+            "7a Calle Poniente",
+            "3a Avenida Norte"
+        ],
+        "coordinates": [
+            14.558656,
+            -90.73621
+        ]
+    },
+    "54": {
+        "n_node": "54",
+        "name": [
+            "7a Calle Poniente",
+            "2a Avenida Norte"
+        ],
+        "coordinates": [
+            14.554411,
+            -90.733398
+        ]
+    },
+    "55": {
+        "n_node": "55",
+        "name": [
+            "7a Calle Poniente",
+            "1a Avenida Norte"
+        ],
+        "coordinates": [
+            14.557764,
+            -90.7296
+        ]
+    }
+}
